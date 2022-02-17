@@ -1,7 +1,9 @@
 # FinTech Company Case-Study Assignment
 ---
 ## Company Name: Wealthsimple
----
+![alt text][logo]
+
+[logo]: https://www.google.com/search?q=wealthsimple+logo&rlz=1C5CHFA_enAU733AU733&sxsrf=APq-WBvJ5j5Wtuwb6bzL3e_UI4PP41wbOw:1645076929648&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiv35OQhYb2AhXbzDgGHZLECDAQ_AUoAXoECAEQAw&biw=1420&bih=744&dpr=2#imgrc=GIENal1_2ueTcM
 ### Overview and Origin 
 - Wealthsimple is one of Canada's leading robo-advisor and private companies that provide easily accessible personal investment management services [[1]](https://www.wealthsimple.com/en-ca/about/who-we-are). It was incorporated in April 2013 and launched the platform in June 2014 [[2]](https://www.bloomberg.com/profile/company/1348112D:CN). Initially, the company first opened an office in Toronto, Canada.
 - The founder of Wealthsimple, Mickael Katchen (the current CEO), was inspired to develop an automated investing platform from building investment portfolios on an Excel spreadsheet [[3]](https://hardbacon.ca/en/investing/who-owns-wealthsimple-the-answer-may-surprise-you/). When he was introduced to his peers, they thought investing portfolios were complicated. Katchen and his co-founder, Brett Huneycutt(the current COO), started their company to eliminate complicated investments concerns. In 2015, the Power Corporation of Canada offered Wealthsimple the first funding of CA$30 million, and now, POW is holding 70% of Wealthsimple[[4]](https://www.crunchbase.com/organization/wealthsimple/company_financials). After nine rounds of funding, Wealthsimple received a total of CA$900 million to boost their new project developments. The company continues and is endeavored to bring smart financial services to everybody, "regardless of age, net worth, background, and education." [[5]](https://www.nextcanada.com/michael-katchen/) As the company's name implies, its goal is to get people to grow their wealth most simply and thus achieve "financial freedom."
